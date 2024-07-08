@@ -1,4 +1,17 @@
-Successfull
-Jaffrin
-Nazareth
-Jaffrin Sampaul s
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
+
+exit
+
+
